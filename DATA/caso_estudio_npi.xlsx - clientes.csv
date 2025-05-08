@@ -1,0 +1,101 @@
+id_cliente,nombre,edad,ciudad,fecha_alta,email
+101,Lucía Pérez,55,Buenos Aires,4/29/2024,lucía.pérez@gmail.com
+102,Carla Pérez,37,Buenos Aires,2/23/2023,carla.pérez@gmail.com
+103,Lucía Gómez,34,Córdoba,12/1/2023,lucía.gómez@gmail.com
+104,María Pérez,44,Buenos Aires,2/15/2023,maría.pérez@gmail.com
+105,Ana Gómez,39,Córdoba,8/24/2023,ana.gómez@gmail.com
+106,Pedro Pérez,30,Córdoba,5/17/2024,pedro.pérez@gmail.com
+107,Carla Gómez,46,Buenos Aires,8/22/2024,carla.gómez@gmail.com
+108,Ana Martínez,22,Mendoza,9/28/2023,ana.martínez@gmail.com
+109,Pedro Gómez,50,Mendoza,3/2/2023,pedro.gómez@gmail.com
+110,Luis Martínez,27,Buenos Aires,10/7/2023,luis.martínez@gmail.com
+111,David Martínez,47,Córdoba,9/30/2023,david.martínez@gmail.com
+112,Lucía Pérez,43,Rosario,5/11/2024,lucía.pérez@gmail.com
+113,Ana Pérez,30,Rosario,10/17/2023,ana.pérez@gmail.com
+114,Luis López,36,Mendoza,5/9/2024,luis.lópez@gmail.com
+115,María Pérez,44,Rosario,7/3/2024,maría.pérez@gmail.com
+116,Lucía Pérez,27,Buenos Aires,7/4/2023,lucía.pérez@gmail.com
+117,Luis Pérez,36,Córdoba,11/3/2023,luis.pérez@gmail.com
+118,Pedro Gómez,29,Buenos Aires,1/6/2024,pedro.gómez@gmail.com
+119,Pedro Martínez,41,Rosario,7/24/2023,pedro.martínez@gmail.com
+120,Lucía López,50,Rosario,8/16/2024,lucía.lópez@gmail.com
+121,Lucía Gómez,36,Buenos Aires,5/9/2024,lucía.gómez@gmail.com
+122,Pedro Gómez,26,Mendoza,7/22/2023,pedro.gómez@gmail.com
+123,Pedro Pérez,37,Mendoza,9/25/2024,pedro.pérez@gmail.com
+124,David Pérez,44,Mendoza,1/18/2024,david.pérez@gmail.com
+125,Pedro Gómez,31,Córdoba,10/23/2023,pedro.gómez@gmail.com
+126,Lucía Gómez,32,Mendoza,7/18/2023,lucía.gómez@gmail.com
+127,Pedro López,36,Mendoza,9/11/2024,pedro.lópez@gmail.com
+128,José Gómez,39,Rosario,2/16/2024,josé.gómez@gmail.com
+129,María López,38,Rosario,1/26/2024,maría.lópez@gmail.com
+130,José Pérez,44,Mendoza,3/23/2024,josé.pérez@gmail.com
+131,María Pérez,26,Córdoba,11/21/2023,maría.pérez@gmail.com
+132,Carla Gómez,53,Mendoza,12/22/2023,carla.gómez@gmail.com
+133,José Pérez,22,Córdoba,1/13/2023,josé.pérez@gmail.com
+134,Pedro Martínez,22,Buenos Aires,1/27/2024,pedro.martínez@gmail.com
+135,Ana López,50,Córdoba,4/2/2024,ana.lópez@gmail.com
+136,José Gómez,48,Buenos Aires,6/22/2024,josé.gómez@gmail.com
+137,Lucía Pérez,36,Córdoba,9/23/2024,lucía.pérez@gmail.com
+138,Carla Martínez,40,Mendoza,12/24/2023,carla.martínez@gmail.com
+139,Carla Martínez,47,Rosario,1/21/2023,carla.martínez@gmail.com
+140,María Martínez,37,Mendoza,2/23/2023,maría.martínez@gmail.com
+141,Carla López,35,Córdoba,3/25/2024,carla.lópez@gmail.com
+142,David Martínez,51,Mendoza,9/1/2023,david.martínez@gmail.com
+143,Luis Gómez,22,Rosario,4/9/2023,luis.gómez@gmail.com
+144,Pedro Pérez,27,Rosario,2/25/2024,pedro.pérez@gmail.com
+145,Carla Gómez,36,Rosario,10/28/2023,carla.gómez@gmail.com
+146,David Martínez,23,Rosario,4/2/2024,david.martínez@gmail.com
+147,Pedro López,31,Buenos Aires,9/19/2023,pedro.lópez@gmail.com
+148,José Martínez,28,Mendoza,7/29/2024,josé.martínez@gmail.com
+149,Luis Pérez,30,Buenos Aires,5/30/2024,luis.pérez@gmail.com
+150,Carla Martínez,45,Córdoba,8/31/2023,carla.martínez@gmail.com
+151,Ana Gómez,39,Rosario,12/28/2023,ana.gómez@gmail.com
+152,Luis Martínez,31,Córdoba,6/13/2024,luis.martínez@gmail.com
+153,David Gómez,37,Córdoba,9/9/2024,david.gómez@gmail.com
+154,Luis López,48,Buenos Aires,2/2/2024,luis.lópez@gmail.com
+155,David Pérez,31,Rosario,8/15/2023,david.pérez@gmail.com
+156,Lucía Pérez,36,Córdoba,12/11/2023,lucía.pérez@gmail.com
+157,Carla Gómez,42,Rosario,1/3/2023,carla.gómez@gmail.com
+158,Lucía Martínez,46,Mendoza,9/15/2023,lucía.martínez@gmail.com
+159,María Gómez,54,Mendoza,9/22/2023,maría.gómez@gmail.com
+160,David Pérez,26,Buenos Aires,10/30/2023,david.pérez@gmail.com
+161,Ana Gómez,45,Rosario,10/10/2023,ana.gómez@gmail.com
+162,María Pérez,27,Rosario,1/4/2023,maría.pérez@gmail.com
+163,David López,45,Buenos Aires,7/3/2024,david.lópez@gmail.com
+164,Ana Pérez,32,Buenos Aires,7/4/2024,ana.pérez@gmail.com
+165,María Gómez,22,Buenos Aires,10/20/2023,maría.gómez@gmail.com
+166,Carla Pérez,26,Rosario,7/27/2023,carla.pérez@gmail.com
+167,Pedro Gómez,31,Mendoza,7/19/2023,pedro.gómez@gmail.com
+168,Lucía Gómez,34,Buenos Aires,5/29/2023,lucía.gómez@gmail.com
+169,José Gómez,44,Buenos Aires,2/21/2023,josé.gómez@gmail.com
+170,Lucía Gómez,36,Córdoba,5/18/2023,lucía.gómez@gmail.com
+171,José Martínez,40,Córdoba,7/3/2024,josé.martínez@gmail.com
+172,David Martínez,49,Mendoza,5/3/2024,david.martínez@gmail.com
+173,María López,38,Mendoza,1/10/2024,maría.lópez@gmail.com
+174,Ana Martínez,53,Rosario,6/29/2023,ana.martínez@gmail.com
+175,Ana López,24,Rosario,10/30/2024,ana.lópez@gmail.com
+176,Pedro Martínez,54,Mendoza,10/5/2023,pedro.martínez@gmail.com
+177,Lucía Pérez,36,Buenos Aires,5/18/2024,lucía.pérez@gmail.com
+178,María Pérez,29,Rosario,3/8/2024,maría.pérez@gmail.com
+179,Luis Pérez,44,Mendoza,1/11/2024,luis.pérez@gmail.com
+180,María Martínez,22,Buenos Aires,6/17/2023,maría.martínez@gmail.com
+181,David López,29,Mendoza,11/10/2023,david.lópez@gmail.com
+182,José López,55,Mendoza,7/29/2024,josé.lópez@gmail.com
+183,Pedro Gómez,22,Mendoza,7/2/2023,pedro.gómez@gmail.com
+184,Carla Gómez,48,Mendoza,8/5/2024,carla.gómez@gmail.com
+185,María Pérez,27,Rosario,11/30/2023,maría.pérez@gmail.com
+186,Pedro Pérez,34,Mendoza,7/12/2023,pedro.pérez@gmail.com
+187,Lucía Gómez,35,Buenos Aires,8/1/2024,lucía.gómez@gmail.com
+188,Pedro Martínez,38,Córdoba,7/15/2023,pedro.martínez@gmail.com
+189,David Martínez,26,Buenos Aires,2/7/2024,david.martínez@gmail.com
+190,Luis Pérez,28,Buenos Aires,9/4/2024,luis.pérez@gmail.com
+191,Ana López,25,Córdoba,11/10/2023,ana.lópez@gmail.com
+192,José Gómez,25,Mendoza,3/28/2023,josé.gómez@gmail.com
+193,María Pérez,45,Buenos Aires,7/13/2023,maría.pérez@gmail.com
+194,Carla Martínez,35,Buenos Aires,2/14/2024,carla.martínez@gmail.com
+195,Carla Pérez,45,Mendoza,2/24/2023,carla.pérez@gmail.com
+196,Pedro Martínez,22,Buenos Aires,1/10/2023,pedro.martínez@gmail.com
+197,José Martínez,30,Mendoza,2/17/2023,josé.martínez@gmail.com
+198,Lucía López,55,Mendoza,7/1/2024,lucía.lópez@gmail.com
+199,Pedro Gómez,41,Rosario,6/5/2023,pedro.gómez@gmail.com
+200,Carla Martínez,28,Mendoza,4/8/2024,carla.martínez@gmail.com
