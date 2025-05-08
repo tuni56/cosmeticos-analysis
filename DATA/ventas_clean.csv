@@ -1,0 +1,201 @@
+id_venta,fecha,producto,cantidad,canal_venta,id_cliente,precio
+1,2025-02-20,Aceite Esencial,2,Instagram,180,1500
+2,2024-10-25,Jabón Natural,2,Instagram,107,800
+3,2024-11-20,Jabón Natural,3,Instagram,114,800
+4,2025-01-27,Jabón Natural,3,Email,105,800
+5,2025-01-01,Shampoo Sólido B,3,Instagram,159,1150
+6,2024-11-15,Shampoo Sólido A,2,Email,134,1200
+7,2024-10-24,Bálsamo Labial,1,Instagram,116,650
+8,2024-11-13,Shampoo Sólido B,2,Instagram,160,1150
+9,2025-02-22,Shampoo Sólido B,3,Facebook,194,1150
+10,2025-02-23,Jabón Natural,1,Facebook,107,800
+11,2025-02-20,Shampoo Sólido A,2,Instagram,180,1200
+12,2024-11-26,Shampoo Sólido A,1,Facebook,121,1200
+13,2024-10-19,Shampoo Sólido A,2,Email,166,1200
+14,2024-10-27,Jabón Natural,3,Instagram,176,800
+15,2024-10-03,Bálsamo Labial,2,Facebook,131,650
+16,2025-02-08,Jabón Natural,2,Instagram,144,800
+17,2024-11-16,Jabón Natural,3,Instagram,137,800
+18,2024-11-23,Shampoo Sólido B,2,Facebook,114,1150
+19,2025-01-19,Shampoo Sólido A,2,Tienda Online,197,1200
+20,2024-12-05,Jabón Natural,2,Instagram,159,800
+21,2024-11-17,Aceite Esencial,1,Email,195,1500
+22,2025-02-15,Aceite Esencial,1,Facebook,134,1500
+23,2025-01-27,Shampoo Sólido A,1,Instagram,126,1200
+24,2024-11-18,Aceite Esencial,2,Instagram,151,1500
+25,2025-02-26,Shampoo Sólido A,1,Email,129,1200
+26,2024-12-08,Aceite Esencial,2,Tienda Online,196,1500
+27,2025-02-16,Jabón Natural,1,Instagram,134,800
+28,2025-02-12,Shampoo Sólido A,3,Instagram,133,1200
+29,2024-11-09,Jabón Natural,2,Email,134,800
+30,2024-11-14,Bálsamo Labial,2,Tienda Online,156,650
+31,2024-12-25,Bálsamo Labial,1,Tienda Online,148,650
+32,2024-12-27,Shampoo Sólido A,1,Email,139,1200
+33,2024-12-05,Bálsamo Labial,3,Tienda Online,133,650
+34,2025-01-23,Shampoo Sólido A,1,Email,121,1200
+35,2025-02-08,Jabón Natural,3,Email,196,800
+36,2024-11-21,Shampoo Sólido B,2,Email,120,1150
+37,2024-11-23,Aceite Esencial,1,Email,133,1500
+38,2024-12-06,Shampoo Sólido A,1,Instagram,195,1200
+39,2024-10-24,Aceite Esencial,2,Tienda Online,120,1500
+40,2025-02-02,Bálsamo Labial,2,Tienda Online,182,650
+41,2025-01-23,Jabón Natural,2,Email,111,800
+42,2024-12-31,Aceite Esencial,2,Email,121,1500
+43,2025-01-15,Bálsamo Labial,1,Facebook,150,650
+44,2024-10-12,Aceite Esencial,3,Email,106,1500
+45,2025-02-04,Jabón Natural,1,Facebook,148,800
+46,2024-10-17,Jabón Natural,2,Instagram,168,800
+47,2025-02-22,Shampoo Sólido A,3,Instagram,169,1200
+48,2025-02-26,Shampoo Sólido B,2,Tienda Online,168,1150
+49,2024-11-09,Jabón Natural,1,Facebook,172,800
+50,2024-11-16,Jabón Natural,3,Email,151,800
+51,2024-11-11,Shampoo Sólido A,1,Email,117,1200
+52,2024-11-20,Shampoo Sólido B,1,Tienda Online,106,1150
+53,2024-12-16,Aceite Esencial,3,Tienda Online,193,1500
+54,2024-11-07,Shampoo Sólido A,3,Facebook,145,1200
+55,2024-11-13,Jabón Natural,3,Tienda Online,102,800
+56,2025-01-07,Bálsamo Labial,2,Tienda Online,187,650
+57,2024-10-05,Aceite Esencial,3,Tienda Online,136,1500
+58,2025-02-03,Shampoo Sólido A,1,Instagram,163,1200
+59,2024-12-02,Aceite Esencial,2,Email,181,1500
+60,2024-11-20,Jabón Natural,2,Instagram,195,800
+61,2024-11-14,Jabón Natural,3,Facebook,102,800
+62,2024-11-18,Jabón Natural,2,Instagram,165,800
+63,2024-10-10,Bálsamo Labial,2,Tienda Online,170,650
+64,2024-12-30,Jabón Natural,2,Instagram,156,800
+65,2024-10-10,Jabón Natural,3,Instagram,124,800
+66,2025-01-25,Bálsamo Labial,1,Facebook,136,650
+67,2024-10-16,Jabón Natural,3,Facebook,165,800
+68,2024-10-30,Bálsamo Labial,1,Instagram,181,650
+69,2024-12-07,Bálsamo Labial,1,Email,113,650
+70,2025-01-21,Aceite Esencial,2,Tienda Online,190,1500
+71,2024-10-23,Aceite Esencial,3,Instagram,175,1500
+72,2024-11-05,Shampoo Sólido A,1,Email,178,1200
+73,2025-01-17,Jabón Natural,3,Instagram,141,800
+74,2024-11-09,Shampoo Sólido A,3,Instagram,190,1200
+75,2025-01-22,Aceite Esencial,2,Facebook,190,1500
+76,2024-12-07,Jabón Natural,3,Tienda Online,161,800
+77,2025-01-12,Bálsamo Labial,1,Instagram,194,650
+78,2025-02-02,Shampoo Sólido B,1,Instagram,181,1150
+79,2024-10-16,Jabón Natural,3,Email,169,800
+80,2024-11-24,Shampoo Sólido B,1,Tienda Online,186,1150
+81,2025-02-02,Aceite Esencial,1,Tienda Online,172,1500
+82,2024-12-15,Aceite Esencial,3,Facebook,122,1500
+83,2025-01-08,Bálsamo Labial,3,Facebook,190,650
+84,2025-02-06,Aceite Esencial,1,Tienda Online,113,1500
+85,2025-01-26,Shampoo Sólido B,1,Facebook,143,1150
+86,2024-11-26,Jabón Natural,1,Tienda Online,102,800
+87,2025-02-23,Aceite Esencial,3,Tienda Online,187,1500
+88,2025-01-14,Shampoo Sólido B,3,Facebook,105,1150
+89,2024-10-06,Shampoo Sólido B,3,Facebook,199,1150
+90,2025-01-16,Bálsamo Labial,1,Facebook,156,650
+91,2024-11-08,Aceite Esencial,2,Facebook,162,1500
+92,2024-10-08,Shampoo Sólido A,3,Facebook,175,1200
+93,2025-02-17,Aceite Esencial,2,Tienda Online,179,1500
+94,2024-10-04,Shampoo Sólido A,3,Email,167,1200
+95,2024-11-22,Aceite Esencial,2,Email,125,1500
+96,2024-11-05,Shampoo Sólido B,3,Email,131,1150
+97,2025-01-21,Shampoo Sólido A,2,Email,106,1200
+98,2024-10-21,Bálsamo Labial,2,Tienda Online,126,650
+99,2024-11-20,Shampoo Sólido B,1,Instagram,167,1150
+100,2024-12-26,Shampoo Sólido A,2,Instagram,125,1200
+101,2025-01-08,Shampoo Sólido A,2,Instagram,125,1200
+102,2024-10-20,Shampoo Sólido B,1,Facebook,199,1150
+103,2024-12-30,Bálsamo Labial,1,Instagram,183,650
+104,2025-02-18,Shampoo Sólido A,3,Tienda Online,109,1200
+105,2024-11-19,Bálsamo Labial,2,Facebook,126,650
+106,2025-01-11,Aceite Esencial,1,Tienda Online,181,1500
+107,2024-10-10,Shampoo Sólido A,2,Tienda Online,108,1200
+108,2025-02-08,Bálsamo Labial,2,Facebook,135,650
+109,2024-11-01,Bálsamo Labial,1,Email,113,650
+110,2024-12-25,Shampoo Sólido B,1,Instagram,112,1150
+111,2024-11-25,Bálsamo Labial,3,Facebook,129,650
+112,2025-01-22,Shampoo Sólido A,3,Tienda Online,122,1200
+113,2024-11-24,Jabón Natural,3,Instagram,161,800
+114,2024-10-27,Bálsamo Labial,2,Email,178,650
+115,2024-11-07,Bálsamo Labial,2,Instagram,164,650
+116,2024-11-08,Aceite Esencial,3,Tienda Online,120,1500
+117,2025-01-24,Shampoo Sólido A,2,Tienda Online,138,1200
+118,2025-01-26,Shampoo Sólido B,1,Facebook,184,1150
+119,2024-10-23,Shampoo Sólido A,1,Email,160,1200
+120,2025-02-21,Aceite Esencial,2,Tienda Online,178,1500
+121,2024-11-08,Jabón Natural,3,Instagram,169,800
+122,2024-12-25,Bálsamo Labial,3,Tienda Online,108,650
+123,2024-11-20,Shampoo Sólido B,2,Instagram,165,1150
+124,2024-12-12,Shampoo Sólido B,2,Instagram,120,1150
+125,2025-01-05,Shampoo Sólido B,1,Email,119,1150
+126,2024-12-12,Jabón Natural,3,Instagram,171,800
+127,2024-10-01,Bálsamo Labial,3,Tienda Online,114,650
+128,2024-10-23,Bálsamo Labial,2,Instagram,198,650
+129,2024-10-13,Aceite Esencial,3,Email,155,1500
+130,2025-02-04,Shampoo Sólido B,1,Instagram,197,1150
+131,2024-11-20,Bálsamo Labial,1,Email,134,650
+132,2024-11-09,Aceite Esencial,1,Email,159,1500
+133,2025-02-22,Aceite Esencial,2,Tienda Online,116,1500
+134,2024-11-09,Bálsamo Labial,1,Email,199,650
+135,2025-01-14,Jabón Natural,3,Instagram,135,800
+136,2024-11-23,Jabón Natural,2,Tienda Online,158,800
+137,2024-11-10,Aceite Esencial,3,Email,157,1500
+138,2024-12-29,Shampoo Sólido A,1,Facebook,101,1200
+139,2024-10-12,Jabón Natural,1,Email,188,800
+140,2024-11-05,Shampoo Sólido A,1,Tienda Online,119,1200
+141,2025-01-28,Shampoo Sólido A,1,Facebook,183,1200
+142,2025-01-20,Bálsamo Labial,3,Tienda Online,101,650
+143,2024-10-02,Jabón Natural,1,Email,102,800
+144,2024-11-09,Aceite Esencial,3,Instagram,167,1500
+145,2024-10-29,Aceite Esencial,2,Email,173,1500
+146,2024-11-06,Aceite Esencial,3,Facebook,144,1500
+147,2025-01-02,Aceite Esencial,2,Instagram,140,1500
+148,2025-02-27,Aceite Esencial,3,Facebook,115,1500
+149,2024-10-09,Jabón Natural,1,Instagram,164,800
+150,2024-12-09,Aceite Esencial,2,Email,181,1500
+151,2025-02-15,Bálsamo Labial,2,Instagram,153,650
+152,2024-10-02,Shampoo Sólido A,2,Facebook,125,1200
+153,2024-11-23,Bálsamo Labial,2,Email,198,650
+154,2025-02-13,Shampoo Sólido B,1,Instagram,174,1150
+155,2025-02-07,Shampoo Sólido A,2,Facebook,185,1200
+156,2025-01-22,Aceite Esencial,1,Instagram,165,1500
+157,2025-01-22,Shampoo Sólido B,1,Email,124,1150
+158,2025-02-06,Shampoo Sólido B,3,Email,133,1150
+159,2024-12-28,Aceite Esencial,1,Facebook,182,1500
+160,2025-01-17,Aceite Esencial,1,Facebook,176,1500
+161,2024-10-08,Jabón Natural,2,Facebook,130,800
+162,2024-12-27,Shampoo Sólido B,2,Instagram,182,1150
+163,2024-11-20,Bálsamo Labial,2,Tienda Online,181,650
+164,2024-12-23,Shampoo Sólido A,3,Email,193,1200
+165,2024-12-31,Aceite Esencial,2,Instagram,193,1500
+166,2024-12-17,Aceite Esencial,1,Facebook,129,1500
+167,2024-11-26,Bálsamo Labial,2,Facebook,190,650
+168,2024-11-02,Shampoo Sólido B,3,Instagram,183,1150
+169,2024-11-06,Shampoo Sólido B,2,Tienda Online,182,1150
+170,2024-12-23,Shampoo Sólido A,1,Tienda Online,164,1200
+171,2025-02-25,Shampoo Sólido A,3,Facebook,164,1200
+172,2025-01-10,Jabón Natural,2,Instagram,183,800
+173,2024-11-20,Bálsamo Labial,1,Tienda Online,172,650
+174,2025-01-24,Bálsamo Labial,3,Facebook,157,650
+175,2024-12-24,Jabón Natural,3,Tienda Online,196,800
+176,2024-11-11,Bálsamo Labial,2,Facebook,120,650
+177,2025-02-21,Bálsamo Labial,2,Email,147,650
+178,2025-01-18,Shampoo Sólido A,1,Tienda Online,148,1200
+179,2025-02-06,Bálsamo Labial,3,Email,160,650
+180,2024-11-26,Aceite Esencial,3,Facebook,157,1500
+181,2024-11-18,Jabón Natural,1,Tienda Online,125,800
+182,2024-12-03,Bálsamo Labial,2,Tienda Online,150,650
+183,2024-12-28,Jabón Natural,3,Instagram,194,800
+184,2024-11-25,Bálsamo Labial,2,Facebook,188,650
+185,2025-02-06,Jabón Natural,3,Facebook,190,800
+186,2025-02-21,Aceite Esencial,1,Tienda Online,198,1500
+187,2024-10-24,Aceite Esencial,3,Tienda Online,173,1500
+188,2024-11-30,Shampoo Sólido A,1,Instagram,146,1200
+189,2024-12-09,Aceite Esencial,3,Tienda Online,133,1500
+190,2024-10-21,Jabón Natural,1,Email,158,800
+191,2025-01-21,Aceite Esencial,1,Email,191,1500
+192,2025-02-22,Shampoo Sólido B,3,Tienda Online,150,1150
+193,2024-10-29,Shampoo Sólido B,2,Tienda Online,111,1150
+194,2024-10-22,Bálsamo Labial,1,Email,186,650
+195,2025-01-02,Jabón Natural,2,Email,148,800
+196,2024-10-18,Bálsamo Labial,1,Tienda Online,176,650
+197,2025-02-09,Shampoo Sólido B,3,Instagram,137,1150
+198,2024-11-23,Bálsamo Labial,2,Instagram,130,650
+199,2025-02-25,Bálsamo Labial,2,Email,114,650
+200,2024-11-15,Jabón Natural,1,Facebook,161,800
