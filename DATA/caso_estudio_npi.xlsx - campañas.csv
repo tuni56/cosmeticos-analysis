@@ -1,0 +1,31 @@
+id_campaña,fecha,canal,tipo_contenido,clics,conversiones
+1,10/6/2024,Tienda Online,Promoción,960,32
+2,10/9/2024,Email,Newsletter,646,115
+3,10/23/2024,Instagram,Newsletter,666,93
+4,10/28/2024,Tienda Online,Post,921,58
+5,11/1/2024,Tienda Online,Video,899,84
+6,11/11/2024,Email,Post,759,96
+7,11/14/2024,Email,Post,503,70
+8,11/19/2024,Email,Post,992,152
+9,11/19/2024,Instagram,Newsletter,966,153
+10,11/25/2024,Email,Video,499,76
+11,12/3/2024,Email,Video,280,19
+12,12/12/2024,Email,Video,983,190
+13,12/15/2024,Email,Post,310,59
+14,12/16/2024,Tienda Online,Post,833,119
+15,12/21/2024,Email,Newsletter,491,52
+16,1/1/2025,Instagram,Promoción,625,53
+17,1/9/2025,Email,Newsletter,627,17
+18,1/13/2025,Email,Newsletter,736,81
+19,1/14/2025,Email,Video,337,42
+20,1/26/2025,Email,Video,718,14
+21,2/4/2025,Instagram,Newsletter,781,136
+22,2/9/2025,Tienda Online,Promoción,435,31
+23,2/18/2025,Email,Post,386,59
+24,2/21/2025,Instagram,Post,937,18
+25,2/21/2025,Tienda Online,Promoción,396,18
+26,2/22/2025,Email,Post,425,32
+27,2/23/2025,Email,Video,377,74
+28,2/24/2025,Tienda Online,Video,191,34
+29,2/24/2025,Email,Post,331,57
+30,2/25/2025,Tienda Online,Promoción,946,139
